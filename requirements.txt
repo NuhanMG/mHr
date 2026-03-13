@@ -1,0 +1,32 @@
+# Mobitel HR Assistant - Dependencies
+
+# LangChain ecosystem
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-core==0.3.83
+langchain-ollama==0.3.10
+
+# Vector store
+faiss-cpu==1.13.2
+
+# PDF processing
+pypdf==6.6.2
+pdfplumber==0.11.9
+
+# UI (Gradio - optional, for legacy frontend)
+# gradio==5.44.1
+
+# API Server (React frontend)
+fastapi>=0.115.0
+uvicorn[standard]>=0.34.0
+python-multipart>=0.0.18
+
+# LLM
+ollama==0.6.1
+langchain-openai>=0.3.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Document reranking
+sentence-transformers>=2.2.0

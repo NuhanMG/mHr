@@ -1,0 +1,9 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+tmp_merged_code.txt
+tmpclaude-*/
+chat_logs/
+node_modules/

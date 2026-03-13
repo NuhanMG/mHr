@@ -1,0 +1,72 @@
+{
+  "year": 2026,
+  "source_pdf": "C:\\Users\\Nuhan\\Videos\\HR\\data\\Holiday\\HOLIDAY PLANNER - 2026.pdf",
+  "extracted_at": "2026-02-17T13:04:42.553988",
+  "holiday_count": 16,
+  "holidays": [
+    {
+      "date": "2026-01-15",
+      "name": "Tamil Thai Pongal Day"
+    },
+    {
+      "date": "2026-02-04",
+      "name": "Independence Day"
+    },
+    {
+      "date": "2026-03-02",
+      "name": "Medin Full Moon Poya Day"
+    },
+    {
+      "date": "2026-04-01",
+      "name": "Bak Full Moon Poya Day"
+    },
+    {
+      "date": "2026-04-03",
+      "name": "Good Friday (Religious Holiday)"
+    },
+    {
+      "date": "2026-04-13",
+      "name": "Day prior to Sinhala and Tamil New Year Day"
+    },
+    {
+      "date": "2026-04-14",
+      "name": "Sinhala and Tamil New Year Day"
+    },
+    {
+      "date": "2026-05-01",
+      "name": "Vesak Full Moon Poya Day & May Day"
+    },
+    {
+      "date": "2026-05-28",
+      "name": "Hadji Festival Day (Religious Holiday)"
+    },
+    {
+      "date": "2026-06-29",
+      "name": "Poson Full Moon Poya Day"
+    },
+    {
+      "date": "2026-07-29",
+      "name": "Esala Full Moon Poya Day"
+    },
+    {
+      "date": "2026-08-26",
+      "name": "Holy Prophet’s Birthday (Milad-Un-Nabi)"
+    },
+    {
+      "date": "2026-08-27",
+      "name": "Nikini Full Moon Poya Day"
+    },
+    {
+      "date": "2026-11-24",
+      "name": "Il Full Moon Poya Day"
+    },
+    {
+      "date": "2026-12-23",
+      "name": "Unduvap Full Moon Poya Day"
+    },
+    {
+      "date": "2026-12-25",
+      "name": "Christmas Day"
+    }
+  ]
+}
